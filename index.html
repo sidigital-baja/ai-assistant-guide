@@ -582,14 +582,30 @@
     }
     .btn-stripe:hover { background: #4f46e5; transform: translateY(-1px); }
 
+    .btn-gumroad {
+      display: flex; align-items: center; justify-content: center; gap: 10px;
+      width: 100%; max-width: 320px;
+      margin: 12px auto 0;
+      padding: 16px;
+      background: #ff90e8;
+      color: #000;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      text-decoration: none;
+      border: none; cursor: pointer;
+      transition: background 0.3s, transform 0.2s;
+    }
+    .btn-gumroad:hover { background: #f070d0; transform: translateY(-1px); }
+
     .guarantee {
       margin-top: 28px;
       font-size: 12px;
       color: var(--muted);
       font-style: italic;
     }
-
-    /* ── FAQ ── */
     .faq-section { background: var(--section-alt); border-top: 1px solid var(--border); }
 
     .faq-list {
@@ -1037,7 +1053,13 @@
         Pay with Stripe / Card
       </a>
 
-      <p class="guarantee">Instant delivery to your inbox &nbsp;·&nbsp; PDF format</p>
+      <!-- GUMROAD BUTTON -->
+      <a href="https://7096223628563.gumroad.com/l/ai-assistant-guide" class="btn-gumroad" target="_blank">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
+        Buy on Gumroad
+      </a>
+
+      <p class="guarantee">Instant delivery · PDF download · All sales final</p>
     </div>
   </div>
 </section>
