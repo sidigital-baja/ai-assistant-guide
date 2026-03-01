@@ -1,0 +1,51 @@
+# Build Your Own Personal AI Assistant App
+> A complete step-by-step instruction manual for building a voice-enabled personal AI assistant app — from scratch. By Sergio M Igartua.
+
+## Product
+- Title: Build Your Own Personal AI Assistant App — A Step-by-Step Instruction Manual
+- Author: Sergio M Igartua
+- Format: PDF Ebook
+- Price: $19 (introductory) / $29 (regular)
+- URL: https://sidigital-baja.github.io/ai-assistant-guide/
+
+## Description
+This guide documents a complete, real-world build of a personal AI assistant app covering 8 phases and 32 steps. It is written for beginners — no prior coding experience required. The example build is a Bogart-inspired noir detective assistant named Bogie, but the guide supports any persona or character.
+
+## What the guide covers
+- Phase 1: AI Persona & System Prompt Design
+- Phase 2: Custom Voice Creation using ElevenLabs
+- Phase 3: Development Environment (Python, VS Code, API keys)
+- Phase 4: Core Assistant Build (Claude API, memory, web search)
+- Phase 5: Web UI with Streamlit + GitHub account setup
+- Phase 6: Google Workspace Integration (Gmail, Calendar, Drive)
+- Phase 7: Cloud Deployment (GitHub + Streamlit Cloud)
+- Phase 8: Mobile App Setup (iPhone & Android home screen)
+
+## What buyers build
+- A fully original AI persona with custom voice
+- Voice input and spoken responses via ElevenLabs
+- Gmail read, send and reply with signature
+- Google Calendar and Drive integration
+- Live web app deployed on Streamlit Cloud
+- iPhone and Android home screen progressive web app
+
+## Tools covered
+- Claude AI by Anthropic (claude.ai)
+- ElevenLabs (elevenlabs.io)
+- Streamlit (streamlit.io)
+- GitHub and GitHub Pages
+- Google Workspace APIs (Gmail, Calendar, Drive)
+- Python and Visual Studio Code
+
+## Purchase
+- PayPal: mkt@si.digital
+- Stripe: https://buy.stripe.com/dRmbJ091g36P8QY2Eq9oc07
+- Gumroad: https://7096223628563.gumroad.com/l/ai-assistant-guide
+
+## Contact
+- Email: mkt@si.digital
+- Author: Sergio M Igartua
+- Publisher: SI Digital (si.digital)
+
+## Demo
+- YouTube: https://www.youtube.com/watch?v=aej2iY0mwIc

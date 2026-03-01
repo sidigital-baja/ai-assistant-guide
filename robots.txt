@@ -1,0 +1,52 @@
+# robots.txt — Build Your Own Personal AI Assistant App
+# https://sidigital-baja.github.io/ai-assistant-guide/
+
+# Allow all search engines and crawlers full access
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://sidigital-baja.github.io/ai-assistant-guide/sitemap.xml
+
+# AI crawlers — explicitly welcomed for LLM indexing
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
